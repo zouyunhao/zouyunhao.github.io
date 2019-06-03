@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on 邹云豪的博客</title>
+    <link>https://zouyunhao.github.io/post/</link>
+    <description>Recent content in Posts on 邹云豪的博客</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 02 Jun 2019 21:54:08 +0900</lastBuildDate>
+    
+	<atom:link href="https://zouyunhao.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>随笔</title>
+      <link>https://zouyunhao.github.io/post/blog4/</link>
+      <pubDate>Sun, 02 Jun 2019 21:54:08 +0900</pubDate>
+      
+      <guid>https://zouyunhao.github.io/post/blog4/</guid>
+      <description>这学期是在高丽大学电子电气工科的最后一学期，刚好收到刚进华为在韩公司的学长提供的消息，所以我打算尝试应聘一下。希望收到好的结果吧。
+最近中美贸易战打的火热，华为成为了最近的热点话题，华为5G成为了让美国忌惮的技术， 5G将开启新的信息时代，华为的5G技术却遥遥领先美国，这是一直强大的美国没有预料的，向来孤傲自大的特朗普倒是像&amp;rdquo;无赖&amp;rdquo;一样，发布各种条例&amp;hellip;
+只看国内媒体的报道又过于主观，所以正好借着在国外方便的机会，在youtube上看了不少相关视频，看到了外国网友在评论区的评论，大部分还是支持华为的，内心还是比较欣慰。 不像以往大多是对中国带有偏见，充满讽刺的评论，这回真是体验到了国家真的是在变强大。只有强大了才会受到尊重。在韩国生活了快6年了，因为历史，地理位置等等因素， 并且韩国又是一个亲美的国家，我在这里受到过很多不平等待遇，甚至在这种情况下，某些自负的韩国人让他们永远也不能接受中国强大的事实，说到这里只能一声长叹啊。 当然也遇到过很多明事理，善良的韩国朋友，这里还是要感谢他们的尊重与照顾。
+总之，国家在变强，我们作为年轻人，做好自己，能为国家献出自己的力量更好不过。</description>
+    </item>
+    
+    <item>
+      <title>PYTHON小游戏</title>
+      <link>https://zouyunhao.github.io/post/blog3/</link>
+      <pubDate>Sun, 19 May 2019 16:29:34 +0900</pubDate>
+      
+      <guid>https://zouyunhao.github.io/post/blog3/</guid>
+      <description>韩国的这个平台真的不错，基于python的游戏制作平台，对初学者非常友好，使编程的难度大大降低，做一个小游戏玩一玩。（其实是需要上交的作业&amp;gt;_&amp;lt;)
+https://youtu.be/6uSIWz7dQjM</description>
+    </item>
+    
+    <item>
+      <title>毕业设计大功告成！</title>
+      <link>https://zouyunhao.github.io/post/blog2/</link>
+      <pubDate>Thu, 03 Jan 2019 23:40:24 +0900</pubDate>
+      
+      <guid>https://zouyunhao.github.io/post/blog2/</guid>
+      <description>一学期的商讨加制作，终于做出了这个装置，最后还获得了奖状和奖金，也算是圆满结束。 附上演示的视频吧:)
+https://www.youtube.com/watch?v=w3V21favKGk</description>
+    </item>
+    
+    <item>
+      <title>我的第一篇博客</title>
+      <link>https://zouyunhao.github.io/post/blog1/</link>
+      <pubDate>Sat, 29 Dec 2018 23:31:54 +0900</pubDate>
+      
+      <guid>https://zouyunhao.github.io/post/blog1/</guid>
+      <description> 大家好，我是邹云豪，是一名在韩国的留学生。  最近想学习编程，随便逛技术宅的youtube的时候，正好看到了用HUGO搭建个人网站， 所以就借此开启我的博客，在这里记录我的想法，分享经历，与大家交流。
+刚学会搭建个人平台还不会弄些太复杂的东西，代码看的我头晕脑胀，还没有学会设置评论的功能，所以还不可以收到评论，而且我觉得也不会有人评论哈哈。
+ </description>
+    </item>
+    
+  </channel>
+</rss>
